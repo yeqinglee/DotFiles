@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/millpc/Documents/ResearchUb/Projects/ParallelOpt/library/Theano/theano'
+let g:netrw_dirhist_2='/home/millpc/Documents/ResearchUb/Projects/ParallelOpt/library/Theano/theano/compat'
+let g:netrw_dirhist_3='/home/millpc/Documents/ResearchUb/Projects/ParallelOpt/library/Theano/theano/sparse'
+let g:netrw_dirhist_4='/home/millpc/Documents/ResearchUb/Projects/ParallelOpt/library/Theano/theano/compile'

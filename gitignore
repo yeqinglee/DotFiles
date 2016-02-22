@@ -1,0 +1,9 @@
+*.swp
+sessions
+*.log
+*.aux
+*.gz
+*~
+*.bbl
+*.blg
+
